@@ -50,8 +50,5 @@ you can play the game <a href="https://girish-xd.github.io/hackProtect/"  >here<
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any queries or contributions, feel free to reach out at [your-email@example.com].
+For any queries or contributions, feel free to reach out at [girishjainl3016@gmail.com].
