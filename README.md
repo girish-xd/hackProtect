@@ -16,6 +16,8 @@ HackProtect is an interactive quiz-style game designed to test and enhance your 
 5. If your answer is incorrect, the hacker's score increases.
 6. The first to reach the target score wins the game.
 
+## Demo
+you can play the game <a href="https://girish-xd.github.io/hackProtect/" value="here" >
 ## Installation
 1. Clone the repository:
    ```bash
